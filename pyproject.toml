@@ -1,0 +1,5 @@
+[project]
+name = "app"
+version = "0.1.0"
+dependencies = [ "fastapi==0.115.12", "uvicorn==0.34.2", "python-multipart==0.0.20", "pypdf==5.4.0", "httpx==0.28.1" ]
+requires-python = ">=3.12,<3.15"
